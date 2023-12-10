@@ -1,0 +1,2 @@
+# DinoAI
+Simple Javascript AI
