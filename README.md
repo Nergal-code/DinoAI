@@ -5,7 +5,7 @@
 #### Clone the repository: 
 
 ```
-git clone https://github.com/AkinoriKoerich/DinoAI.git
+git clone https://github.com/Nergal-code/DinoAI.git
 ```
 
 ## Usage
