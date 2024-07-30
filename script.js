@@ -5,7 +5,7 @@ import controls from './controls.js';
 const SAMPLES = 10; // Número de amostras (agentes) no algoritmo genético
 const game = Runner.instance_; // Instância do jogo "Runner"
 let dinoList = []; // Lista de dinossauros
-let dinoIndex = 0; // Índice do dinossauro atual na lista
+let dinoIndex = 0; // Índice do dinossauro atual nas listas
 
 let bestScore = 0; // Melhor pontuação encontrada durante o treinamento
 let bestRNA = null; // Melhor RNA (rede neural) encontrada durante o treinamento
